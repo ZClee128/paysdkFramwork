@@ -1,0 +1,6 @@
+framework module paysdkFramwork {
+  umbrella header "paysdkFramwork.h"
+
+  export *
+  module * { export * }
+}
